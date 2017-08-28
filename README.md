@@ -5,7 +5,7 @@ ArmlessWarrior - The Game
 Side-scrolling game where you need to go through the stages killing your foes in the way until you reach the final boss.
 
 ### Story
-An unknown armless guy always that dreamed about been a hero. Dispite all the hardships that he has lived through he never lost his will to help other people. Since he was little he had to overcome the fact that he was different. As he was born without both arms he had to learn how to effectively use his legs, so he uses them to be the hero that he wanted. He fights small enemies and big bosses.
+An unknown armless guy always that dreamed about been a hero. Dispite all the hardships that he has lived through he never lost his will to help other people. Since he was little he had to overcome the fact that he was different. As he was born without both arms he had been bullied since he can remember. He had to learn how to effectively use his legs, so he uses them to be the hero that he wanted. He fights small enemies and big bosses, and finally the big bully.
 
 ### Controls
 Tap attack button to attack and use joystick to move (yet to be implemented)
@@ -14,9 +14,12 @@ Tap attack button to attack and use joystick to move (yet to be implemented)
 (yet to be implemented)
 
 ### Specific objectives
-Kill as many foes as possible in each stage.
-Kill the boss.
-Get coins around the stages to buy assets.
+-Kill as many foes as possible in each stage.
+-Kill the boss.
+-Get coins around the stages to buy assets.
+
+### Main objective
+- Kill the boss that tormented him his entire life, a bully foe.
 
 ### Rules
 When you get hit by a foe you lost one bar of life at each time.
