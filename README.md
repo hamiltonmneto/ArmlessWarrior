@@ -13,6 +13,25 @@ Tap attack button to attack and use joystick to move (yet to be implemented)
 ### Sound
 (yet to be implemented)
 
+### Specific objectives
+Kill as many foes as possible in each stage.
+Kill the boss.
+Get coins around the stages to buy assets.
+
+### Rules
+When you get hit by a foe you lost one bar of life at each time.
+You can kill a foe by hit him. As the game progresses the foes gets stronger, so you need more than one hit to kill it.
+With coins you are able to buy from the store.
+
+### Point system
+Whenever you kill a foe you get 30 points and 10 coins.
+
+### Life system
+You start the game with 3 lifes, each one has 3 energy bars. Whenever you get hit by a foe you lose an energy bar.
+
+### Game over
+When you have no more lifes left. And then you return to the main menu.
+
 ### Game Navigation
 
 1. Splash Screen
@@ -22,4 +41,8 @@ Tap attack button to attack and use joystick to move (yet to be implemented)
 - Options
 - Credits
 - Exit
+3. Game screen
+- Stages
+- Store
+4. Game over screen
 
