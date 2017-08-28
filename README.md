@@ -36,7 +36,7 @@ You start the game with 3 lifes, each one has 3 energy bars. Whenever you get hi
 When you have no more lifes left. And then you return to the main menu.
 
 ### Game Navigation
-[https://github.com/Marciorx/ArmlessWarrior/edit/master/datagram.png]
+[[https://github.com/Marciorx/ArmlessWarrior/edit/master/datagram.png|alt=datagram]]
 1. Splash Screen
 2. Main menu
 - Start Game
