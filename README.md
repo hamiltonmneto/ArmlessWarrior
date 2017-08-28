@@ -17,4 +17,9 @@ Tap attack button to attack and use joystick to move (yet to be implemented)
 
 1. Splash Screen
 2. Main menu
+- Start Game
+- Load Game
+- Options
+- Credits
+- Exit
 
