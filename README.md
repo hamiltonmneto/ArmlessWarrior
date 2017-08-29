@@ -13,18 +13,24 @@ Tap attack button to attack and use joystick to move (yet to be implemented)
 ### Sound
 (yet to be implemented)
 
+### Main objective
+- Kill the boss that tormented him his entire life, a bully foe.
+
 ### Specific objectives
 -Kill as many foes as possible in each stage.
 -Kill the boss.
 -Get coins around the stages to buy assets.
 
-### Main objective
-- Kill the boss that tormented him his entire life, a bully foe.
-
 ### Rules
 When you get hit by a foe you lost one bar of life at each time.
 You can kill a foe by hit him. As the game progresses the foes gets stronger, so you need more than one hit to kill it. Each stage has around 15 foes before the boss.
-With coins you are able to buy from the store.
+With coins you are able to buy power ups from the store.
+
+### Power up
+- Life refiller (fulfill your 3 bars)
+- invencible for 6 sec
+- stronger atk. kill stronger enemies with 1 hit. (4 sec)
+
 
 ### Point system
 Whenever you kill a foe you get 30 points and 10 coins.
