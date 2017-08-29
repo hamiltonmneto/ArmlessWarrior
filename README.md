@@ -47,5 +47,5 @@ When you have no more lifes left. And then you return to the main menu.
 3. Game screen
 - Stages
 - Store
-4. Game over screen
+4. Game over screen.
 
