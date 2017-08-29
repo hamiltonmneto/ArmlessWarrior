@@ -23,7 +23,7 @@ Tap attack button to attack and use joystick to move (yet to be implemented)
 
 ### Rules
 When you get hit by a foe you lost one bar of life at each time.
-You can kill a foe by hit him. As the game progresses the foes gets stronger, so you need more than one hit to kill it.
+You can kill a foe by hit him. As the game progresses the foes gets stronger, so you need more than one hit to kill it. Each stage has around 15 foes before the boss.
 With coins you are able to buy from the store.
 
 ### Point system
