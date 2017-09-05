@@ -11,7 +11,7 @@ An unknown armless guy always that dreamed about been a hero. Dispite all the ha
 Tap attack button to attack and use joystick to move (yet to be implemented)
 
 ### Sound
-(yet to be implemented)
+Chiptunes By Juhani Junkala.
 
 ### Main objective
 - Kill the boss that tormented him his entire life, a bully foe.
